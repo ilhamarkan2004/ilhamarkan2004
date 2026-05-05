@@ -29,8 +29,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamarkan2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br />
    <a href="https://github.com/ilhamarkan2004">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DikkyRahmadS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DikkyRahmadS&layout=compact&langs_count=8&theme=tokyonight" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhamarkan2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhamarkan2004&layout=compact&langs_count=8&theme=tokyonight" style="max-width: 50%;"/>
    </a>
 </div>
 
